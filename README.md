@@ -12,4 +12,4 @@ A simple Calculator for general Purpose.
   . Css
   . JavasScipt
 
-# In this the calculator if incorrect opretor input its shows "Error Message"
+# In this the calculator if incorrect opretor input its shows "Error Message".
